@@ -1,0 +1,34 @@
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.pdb
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.Properties.Resources.resources
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.exe
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.pdb
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormOptions.resources
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormMain.resources
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormAbout.resources
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe.config
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe.manifest
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.application
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.exe.manifest
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.application
+d:\users\bacon21\documents\visual studio 2010\Projects\System Uptime Monitor\System Uptime Monitor\bin\Debug\Logo.ico
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe.config
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.exe
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.pdb
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\Logo.ico
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe.manifest
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.application
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.exe
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\bin\Debug\System Uptime Monitor.pdb
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormAbout.resources
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormMain.resources
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.FormOptions.resources
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System_Uptime_Monitor.Properties.Resources.resources
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.exe.manifest
+D:\Users SSD\Bacon21\ArborWing\Utility Programes\System Uptime Monitor\System Uptime Monitor\obj\x86\Debug\System Uptime Monitor.application

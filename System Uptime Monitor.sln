@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System Uptime Monitor", "System Uptime Monitor\System Uptime Monitor.csproj", "{733D0BD7-B0E8-41D7-90C7-A9F74373C854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733D0BD7-B0E8-41D7-90C7-A9F74373C854}.Debug|x86.ActiveCfg = Debug|x86
+		{733D0BD7-B0E8-41D7-90C7-A9F74373C854}.Debug|x86.Build.0 = Debug|x86
+		{733D0BD7-B0E8-41D7-90C7-A9F74373C854}.Release|x86.ActiveCfg = Release|x86
+		{733D0BD7-B0E8-41D7-90C7-A9F74373C854}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
